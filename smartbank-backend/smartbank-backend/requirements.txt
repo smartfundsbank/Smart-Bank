@@ -1,4 +1,4 @@
-Smart-Bank/
+smartbank-backend/requirements.txt
 ├─ smartbank-backend/
 │  ├─ main.py
 │  ├─ requirements.txt
