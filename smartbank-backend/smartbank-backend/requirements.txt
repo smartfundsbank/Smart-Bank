@@ -1,6 +1,5 @@
-fastapi
-uvicorn
-sqlalchemy
-pydantic
-passlib[bcrypt]
-python-jose
+Smart-Bank/
+├─ smartbank-backend/
+│  ├─ main.py
+│  ├─ requirements.txt   ✅ must be here
+└─ render.yaml
