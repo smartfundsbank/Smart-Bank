@@ -3,5 +3,5 @@ services:
     name: smart-bank-backend
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: uvicorn smartbank-backend.main:app --host 0.0.0.0 --port $PORT
+    startCommand: cd smartbank-backend && uvicorn main:app --host 0.0.0.0 --port $PORT
     plan: free
