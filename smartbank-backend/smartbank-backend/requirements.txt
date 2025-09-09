@@ -1,5 +1,5 @@
-smartbank-backend/requirements.txt
-├─ smartbank-backend/
-│  ├─ main.py
-│  ├─ requirements.txt
-└─ render.yaml
+Smart-Bank/
+ └── smartbank-backend/
+      ├── main.py
+      ├── requirements.txt   ✅
+      └── render.yaml   ❌ (inside backend)
